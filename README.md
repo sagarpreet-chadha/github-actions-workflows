@@ -11,3 +11,4 @@ Event: `issue_comment`
 Run the workflow when a specific comment is made on a pull request. The workflow will only run if the comment contains the string `/deploy`.
 
 See this [PR](https://github.com/zirkelc/github-actions-workflows/pull/2) for an example.
+
